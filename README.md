@@ -9,8 +9,8 @@ This is my repository showing projects that I have been working on in and outsid
 I used Python and Draw.io
 
 ## Files
+[README.md]
 [practice_midterm.py](https://github.com/user-attachments/files/33578558/practice_midterm.py)
-
 [knezevich_homework1.drawio](https://github.com/user-attachments/files/33578610/knezevich_homework1.drawio)
 
   

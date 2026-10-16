@@ -10,6 +10,7 @@ I used Python and Draw.io
 
 ## Files
 [practice_midterm.py](https://github.com/user-attachments/files/33578558/practice_midterm.py)
+
 [knezevich_homework1.drawio](https://github.com/user-attachments/files/33578610/knezevich_homework1.drawio)
 
   
